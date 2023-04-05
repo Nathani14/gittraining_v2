@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 s This is test file for sample download
 And this is another commit from local machine.
+=======
+s This is test file for sample download.
+adding a new line to check authentication
+And this is another commit from local machine
+>>>>>>> 5eab6bd0aa235f3f1e8fdd3439608d11a1a10194
